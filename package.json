@@ -48,6 +48,7 @@
 	},
 	"dependencies": {
 		"@fontsource-variable/geist-mono": "^5.2.8",
-		"fontless": "^0.2.1"
+		"fontless": "^0.2.1",
+		"web-sentinel": "^0.1.5"
 	}
 }
